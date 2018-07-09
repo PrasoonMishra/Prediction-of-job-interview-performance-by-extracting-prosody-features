@@ -62,5 +62,15 @@ Then comparing the accuracy of each model. We also compared prosody features wit
 `Comparison of Random forest and LASSO on same personality
 trait`
 ![accuracy](https://user-images.githubusercontent.com/22328407/42433489-325b2770-836d-11e8-9a17-6d8ebca00d27.png)
+
 `Relative proportion of prosodic and lexical features after applying
 LASSO`
+
+![engaging_tone_3](https://user-images.githubusercontent.com/22328407/42433657-efd51d06-836d-11e8-95ff-2291f38d82b7.png)
+![engaged_3](https://user-images.githubusercontent.com/22328407/42433658-f03e2378-836d-11e8-87c1-9cc397922fb4.png)
+
+`Relative proportion of prosodic and lexical features after applying
+Random forest`
+
+![engaging_tone_4](https://user-images.githubusercontent.com/22328407/42433718-29fdf5ca-836e-11e8-950b-fe9194781e97.png)
+![engaged_4](https://user-images.githubusercontent.com/22328407/42433719-2a8a0448-836e-11e8-93e9-0f801f79da7c.png)
