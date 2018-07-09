@@ -58,4 +58,9 @@ The K-Fold cross validation was applied to both the algorithm. `K-Folds cross-va
 Comparing two different algorithms of predicitng the scores and then the accuracies of those two algorithms.
 Then comparing the accuracy of each model. We also compared prosody features with the lexical features for different personalty traits.
 
-
+# Analysis :
+`Comparison of Random forest and LASSO on same personality
+trait`
+![accuracy](https://user-images.githubusercontent.com/22328407/42433489-325b2770-836d-11e8-9a17-6d8ebca00d27.png)
+`Relative proportion of prosodic and lexical features after applying
+LASSO`
