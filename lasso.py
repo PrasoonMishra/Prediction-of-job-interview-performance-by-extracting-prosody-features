@@ -21,9 +21,9 @@ list_of_files = ['4_Colleague.csv','5_Engaged.csv','6_Excited.csv','7_EyeContact
 maxx=0
 meann= 0.0
 mean_last = 0
+index_for_iloc=4
 
 for elements in list_of_files :
-	index_for_iloc=4
 	index = []
 	feature_list=[]
 	ig_list=[]
